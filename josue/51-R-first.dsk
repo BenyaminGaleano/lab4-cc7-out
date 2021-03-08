@@ -1,0 +1,26 @@
+Dirección: R
+
+FIFO
+Posición Inicial: 51
+Listado: 34,45,67,89
+Promedio: 18.00
+Desviación Estándar: 5.23
+
+Scan
+Posición Inicial: 51
+Listado: 67,89,45,34
+Promedio: 23.25
+Desviación Estándar: 14.55
+
+C-Scan
+Posición Inicial: 51
+Listado: 67,89,34,45
+Promedio: 23.25
+Desviación Estándar: 14.55
+
+Shortest Seek Time First
+Posición Inicial: 51
+Listado: 45,34,67,89
+Promedio: 18.00
+Desviación Estándar: 12.03
+
