@@ -6,12 +6,6 @@ Listado: 82,70,43,40,24,16,19
 Promedio: 14.43
 Desviación Estándar: 11.39
 
-Short Seek Time First
-Posición Inicial: 50
-Listado: 43,40,24,19,16,82,70
-Promedio: 11.43
-Desviación Estándar: 11.06
-
 SCAN
 Posición Inicial: 50
 Listado: 70,82,43,40,24,19,16
@@ -23,3 +17,10 @@ Posición Inicial: 50
 Listado: 70,82,16,19,24,40,43
 Promedio: 27.86
 Desviación Estándar: 48.14
+
+Short Seek Time First
+Posición Inicial: 50
+Listado: 43,40,24,19,16,82,70
+Promedio: 11.43
+Desviación Estándar: 11.06
+
