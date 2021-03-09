@@ -1,0 +1,25 @@
+Dirección: R
+
+First Come First Served
+Posición Inicial: 99
+Listado: 82,70,43,40,24,16,19
+Promedio: 12.29
+Desviación Estándar: 8.60
+
+Short Seek Time First
+Posición Inicial: 99
+Listado: 16,19,24,40,43,70,82
+Promedio: 11.86
+Desviación Estándar: 8.91
+
+SCAN
+Posición Inicial: 99
+Listado: 82,70,43,40,24,19,16
+Promedio: 12.14
+Desviación Estándar: 9.14
+
+CSCAN
+Posición Inicial: 99
+Listado: 16,19,24,40,43,70,82
+Promedio: 26.43
+Desviación Estándar: 41.72

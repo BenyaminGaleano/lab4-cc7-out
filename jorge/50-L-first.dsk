@@ -1,0 +1,24 @@
+Dirección: L
+First Come First Served
+Posición Inicial: 50
+Listado: 34,45,67,89
+Promedio: 17.75
+Desviación Estándar: 5.32
+
+Short Seek Time First
+Posición Inicial: 50
+Listado: 45,34,67,89
+Promedio: 17.75
+Desviación Estándar: 12.37
+
+SCAN
+Posición Inicial: 50
+Listado: 45,34,67,89
+Promedio: 34.75
+Desviación Estándar: 44.72
+    
+CSCAN
+Posición Inicial: 50
+Listado: 45,34,89,67
+Promedio: 46.25
+Desviación Estándar: 67.53
