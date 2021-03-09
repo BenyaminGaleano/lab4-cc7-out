@@ -1,4 +1,4 @@
-Dirección: L
+Dirección: R
 
 FIFO
 Posición Inicial: 3
@@ -8,15 +8,15 @@ Desviación Estándar: 8.19
 
 Scan
 Posición Inicial: 3
-Listado: 89,67,45,34
-Promedio: 41.75
-Desviación Estándar: 35.87
+Listado: 34,45,67,89
+Promedio: 21.50
+Desviación Estándar: 8.19
 
 C-Scan
 Posición Inicial: 3
 Listado: 34,45,67,89
-Promedio: 23.00
-Desviación Estándar: 10.68
+Promedio: 21.50
+Desviación Estándar: 8.19
 
 Shortest Seek Time First
 Posición Inicial: 3

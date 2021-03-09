@@ -1,0 +1,26 @@
+Dirección: L
+
+FIFO
+Posición Inicial: 50
+Listado: 12,40,63,51,99,3,98
+Promedio: 35.29
+Desviación Estándar: 30.34
+
+Scan
+Posición Inicial: 50
+Listado: 40,12,3,51,63,98,99
+Promedio: 21.29
+Desviación Estándar: 18.62
+
+C-Scan
+Posición Inicial: 50
+Listado: 3,12,40,51,63,98,99
+Promedio: 21.29
+Desviación Estándar: 18.23
+
+Shortest Seek Time First
+Posición Inicial: 50
+Listado: 51,40,63,98,99,3,12
+Promedio: 11.86
+Desviación Estándar: 12.80
+
