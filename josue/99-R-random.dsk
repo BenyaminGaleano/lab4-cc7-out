@@ -3,8 +3,8 @@ Dirección: R
 FIFO
 Posición Inicial: 99
 Listado: 12,40,63,51,99,3,98
-Promedio: 19.00
-Desviación Estándar: 15.51
+Promedio: 55.57
+Desviación Estándar: 36.41
 
 Scan
 Posición Inicial: 99
@@ -20,7 +20,7 @@ Desviación Estándar: 34.54
 
 Shortest Seek Time First
 Posición Inicial: 99
-Listado: 99,98,3,12,40,51,63
-Promedio: 9.43
-Desviación Estándar: 9.43
+Listado: 99,98,63,51,40,12,3
+Promedio: 13.71
+Desviación Estándar: 13.16
 
